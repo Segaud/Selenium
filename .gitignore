@@ -1,0 +1,13 @@
+cat > .gitignore <<'EOF'
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+EOF
