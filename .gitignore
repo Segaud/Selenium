@@ -9,3 +9,6 @@ target/
 
 # VS Code local settings
 .vscode/
+
+# screenshots
+evidence/
